@@ -14,7 +14,7 @@
 
 
 django-restraint
-===============
+================
 
 Restraint is a dynamic object-level permission system for Django.
 
